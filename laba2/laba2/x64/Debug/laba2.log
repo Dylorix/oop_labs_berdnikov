@@ -1,0 +1,8 @@
+﻿  laba2.cpp
+D:\FromWT\Учёба\OOP\laba2\laba2\laba2.cpp(49,82): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\FromWT\Учёба\OOP\laba2\laba2\laba2.cpp(49,71): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\FromWT\Учёба\OOP\laba2\laba2\laba2.cpp(49,60): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\FromWT\Учёба\OOP\laba2\laba2\laba2.cpp(49,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\FromWT\Учёба\OOP\laba2\laba2\laba2.cpp(49,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\FromWT\Учёба\OOP\laba2\laba2\laba2.cpp(49,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  laba2.vcxproj -> D:\FromWT\Учёба\OOP\laba2\x64\Debug\laba2.exe
