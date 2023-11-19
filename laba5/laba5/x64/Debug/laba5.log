@@ -1,0 +1,5 @@
+﻿  FileUserRepository.cpp
+D:\FromWT\Учёба\OOP\laba5\laba5\FileUserRepository.cpp(101,23): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  laba5.cpp
+  Создание кода...
+  laba5.vcxproj -> D:\FromWT\Учёба\OOP\laba5\x64\Debug\laba5.exe
